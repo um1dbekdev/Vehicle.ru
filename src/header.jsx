@@ -3,7 +3,7 @@ import Hdtop from "./hdtop"
 
 const Hd= () =>{
     return(
-        <div className="hd ">
+        <div className="hd">
             <Hdtop/>
             <Hdbtm/>
         </div>
