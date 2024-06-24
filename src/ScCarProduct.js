@@ -23,7 +23,7 @@ let product = [
       
     {
         id:3,
-        img:'https://prestigecarhire.co.uk/wp-content/uploads/2022/07/F8-Tributo.png',
+        img:'https://file.kelleybluebookimages.com/kbb/base/evox/CP/53869/2024-Genesis-G90-front_53869_032_1799x705_PH3_cropped.png',
         title:'Ferrari model - CEO says',
         old:'В сутки 1100$'
       },
